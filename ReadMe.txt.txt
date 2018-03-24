@@ -1,0 +1,1 @@
+Some c++ project from EGT C++ course
